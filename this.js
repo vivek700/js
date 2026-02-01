@@ -13,7 +13,7 @@ const product = {
 
 product.getProductInfo();
 
-//if we do this it will not gonna work fine.
+//if we do this it will not gonna work
 // const productInfo = product.getProductInfo;
 // productInfo();
 //
